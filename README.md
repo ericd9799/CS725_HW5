@@ -10,16 +10,9 @@
 **Sources**
 
 <a href='http://apps.who.int/gho/data/node.main.WSHSANITATION?lang=en'>Basic and safely managed sanitation services 
-Data by country</a>
+Data by country by World Health Organization</a>
 
 <a href='http://apps.who.int/gho/data/node.main.WSHWATER?lang=en'>Basic and safely managed drinking water services 
-Data by country</a>
+Data by country by World Health Organization</a>
 
-**Questions**
-
- 1. Has the number of women nominee and winners for increased over time?
-**Sources**
-
-<a href='https://www.kaggle.com/theacademy/academy-awards/data'>The Academy Awards dataset from Kaggle</a>
-
-<a href='https://www.crowdflower.com/data-for-everyone/?utm_source=press%20release&utm_medium=DFE&utm_campaign=PR'>The Academy Awards from Crowdflower</a>
+<a href='https://data.unicef.org/topic/water-and-sanitation/drinking-water/'>Water and Sanitation by UNICEF</a>
