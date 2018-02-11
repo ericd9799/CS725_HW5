@@ -4,8 +4,9 @@
 
 **Questions**
 
- 1. Has the development of a country over time lead to better drinking water?
- 2. 
+ 1. Has the development of a country over time lead to better drinking water and sanitation?
+ 2. Does a country having basic drinking water services mean they also have basic sanitation services?
+ 3. 
 
 **Sources**
 
