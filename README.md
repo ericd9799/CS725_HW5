@@ -6,7 +6,7 @@
 
  1. Has the development of a country over time lead to better drinking water and sanitation?
  2. Does a country having basic drinking water services mean they also have basic sanitation services?
- 3. 
+ 3. Is it possible for a developed country to not have basic drinking water and/or sanitation, and vice versa?
 
 **Sources**
 
