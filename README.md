@@ -4,7 +4,7 @@
 
 **Questions**
 
- 1. Has the growth of a country over time lead to better drinking water?
+ 1. Has the development of a country over time lead to better drinking water?
  2. 
 
 **Sources**
