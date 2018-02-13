@@ -10,10 +10,12 @@
 
 **Abstract Tasks**
 
- 1. Find correlation between country's wealth and access to safe drinking water and sanitation by exploring the data to be able to identify a dependency.
-    * asdf
- 2. Compare a country's access of basic drinking water to basic sanitation services by explorign the data to be able to identiy a correlation.
- 3. Find a correlation between hygiene data and drinking water/santiation data by exploring the data sheet.
+ 1. Compare a country's wealth and access to safe drinking water and sanitation.
+    * The action would be to explore the data to compare the data to be able to identiy a correlation.
+ 2. Compare a country's access of basic drinking water to basic sanitation services 
+    * The action would be to explore the data to compare the data to be able to identiy a correlation.
+ 3. Compare the hygiene data to the drinking water/santiation data.
+    * The action would be to explore the data to compare the hygiene data to water/sanitation data to find a correlation.
 
 **Sources**
 
@@ -24,3 +26,5 @@ Data by country by World Health Organization</a>
 Data by country by World Health Organization</a>
 
 <a href='https://data.unicef.org/topic/water-and-sanitation/drinking-water/'>Water and Sanitation data sheet by UNICEF</a>
+
+<a href='http://wid.world/data/'>World Wealth and Income Database</a>
