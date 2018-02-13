@@ -5,15 +5,15 @@
 **Questions**
 
  1. Has the development of a country over time lead to better drinking water and sanitation?
- 2. Does a country having basic drinking water services mean they also have basic sanitation services?
+ 2. How has the access to drinking water and sanitation changed over time for rural areas?
  3. Does a country's hygiene rating correlate to having access to drinking water and sanitation?
 
 **Abstract Tasks**
 
  1. Compare a country's wealth and access to safe drinking water and sanitation.
     * The action would be to explore the data to compare the data to be able to identiy a correlation.
- 2. Compare a country's access of basic drinking water to basic sanitation services 
-    * The action would be to explore the data to compare the data to be able to identiy a correlation.
+ 2. Identify the change in rating over a time period.
+    * The action would be to explore the data to identify a trend.
  3. Compare the hygiene data to the drinking water/santiation data.
     * The action would be to explore the data to compare the hygiene data to water/sanitation data to find a correlation.
 
